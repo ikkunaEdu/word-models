@@ -3,7 +3,7 @@
 [![Coverage Status][codecov-image]][codecov-url]
 [![Dependencies][dependencies-image]][dependencies-url]
 
-node-word2vec
+word-models
 =============
 
 > Node.js interface to the Google [word2vec](https://code.google.com/p/word2vec/) tool
@@ -14,7 +14,7 @@ This is a Node.js interface to the *word2vec* tool developed at Google Research 
 
 # Installation
 
-Currently, `node-word2vec` is ONLY supported for Unix operating systems.
+Currently, `word-models` is ONLY supported for Unix operating systems.
 
 Install it via npm:
 ``` bash

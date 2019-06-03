@@ -1,6 +1,6 @@
 {
-  "name": "word2vec",
-  "version": "1.1.4",
+  "name": "word-models",
+  "version": "0.0.2",
   "description": "node.js interface to the Google word2vec tool",
   "main": "lib/index.js",
   "scripts": {
@@ -11,7 +11,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Planeshifter/node-word2vec.git"
+    "url": "git+https://github.com/ikkunaEdu/word-models.git"
   },
   "keywords": [
     "text-analytics",
@@ -19,13 +19,13 @@
     "word-distance"
   ],
   "author": {
-    "name": "Philipp Burckhardt"
+    "name": "Diego Correa T."
   },
   "license": "APA-2",
   "bugs": {
-    "url": "https://github.com/Planeshifter/node-word2vec/issues"
+    "url": "https://github.com/ikkunaEdu/word-models/issues"
   },
-  "homepage": "https://github.com/Planeshifter/node-word2vec",
+  "homepage": "https://github.com/ikkunaEdu/word-models",
   "dependencies": {
     "change-case": "^3.0.1",
     "charm": "^1.0.0",
