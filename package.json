@@ -1,6 +1,6 @@
 {
   "name": "word-models",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node.js interface to the Google word2vec tool",
   "main": "lib/index.js",
   "scripts": {
